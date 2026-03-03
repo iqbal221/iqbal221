@@ -4,9 +4,9 @@
 
 
 
-💻 I build scalable web applications and high-performance mobile apps.  
-📱 Passionate about Flutter, React, Node.js, and modern backend architecture.  
-🧠 Interested in Clean Architecture, scalable system design, and problem solving.  
+🟢 I build scalable web applications and high-performance mobile apps.  
+🟢 Passionate about Flutter, React, Node.js, and modern backend architecture.  
+🟢 Interested in Clean Architecture, scalable system design, and problem solving.  
 
 
 
