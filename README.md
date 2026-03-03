@@ -11,7 +11,7 @@
 
 
 
-🚀 Tech Stack
+Skills:
 
 🎨 Frontend
 • HTML5 • CSS3 • Bootstrap 5 • Tailwind CSS  • JavaScript • TypeScript  • React JS • Next.js  • Redux  
