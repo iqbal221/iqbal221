@@ -1,5 +1,5 @@
 ![A passionate full stack developer from Bangladesh](https://media.licdn.com/dms/image/v2/D5616AQHLTSmLNjv5ww/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1729227421644?e=1773878400&v=beta&t=ciooHFUrv1xsZwaBXYJZniFD0czatPX-H2SHIULPIq0)
-### Hi there 👋, ## 👋 Hi, I'm Md Zahed Iqbal
+## 👋 Hi, I'm Md Zahed Iqbal
 #### A passionate Full Stack Developer & Mobile App Develope from Bangladesh
 
 💻 I build scalable web applications and high-performance mobile apps.  
@@ -7,6 +7,7 @@
 🧠 Interested in Clean Architecture, scalable system design, and problem solving.  
 
 🚀 Tech Stack
+
 🎨 Frontend
 HTML5 • CSS3 • Bootstrap 5 • Tailwind CSS  
 JavaScript • TypeScript  
