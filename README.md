@@ -3,7 +3,7 @@
 
 
  <p align="center">
-  <img src="(https://github.com/iqbal221/iqbal221/blob/main/banner.jpg?raw=true)" width="100%" />
+  <img src="https://github.com/iqbal221/iqbal221/blob/main/banner.jpg" width="100%" />
 </p>
 
 
