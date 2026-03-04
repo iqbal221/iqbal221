@@ -2,7 +2,9 @@
 ## 👋 Hi, I'm Md Zahed Iqbal
 
 
-  <img src="[https://raw.githubusercontent.com/yourusername/yourusername/main/banner.jpg](https://media.licdn.com/dms/image/v2/D5616AQHLTSmLNjv5ww/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729227421644?e=1774483200&v=beta&t=c4toM1R4Z5Pd1C79lD_1-8WjSpybPbctofZAOz0tNGM)" width="100%" />
+ <p align="center">
+  <img src="(https://github.com/iqbal221/iqbal221/blob/main/banner.jpg?raw=true)" width="100%" />
+</p>
 
 
 ## 💫 About Me:
