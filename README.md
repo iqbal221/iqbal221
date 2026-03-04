@@ -1,7 +1,8 @@
 
 ## 👋 Hi, I'm Md Zahed Iqbal
-
-https://media.licdn.com/dms/image/v2/D5616AQHLTSmLNjv5ww/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729227421644?e=1774483200&v=beta&t=c4toM1R4Z5Pd1C79lD_1-8WjSpybPbctofZAOz0tNGM
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/yourusername/yourusername/main/banner.jpg](https://media.licdn.com/dms/image/v2/D5616AQHLTSmLNjv5ww/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729227421644?e=1774483200&v=beta&t=c4toM1R4Z5Pd1C79lD_1-8WjSpybPbctofZAOz0tNGM)" width="100%" />
+</p>
 
 ## 💫 About Me:
 I am professional full stack & mobile apps developer. I build scalable web applications and high-performance mobile apps.I am increasing my skills every day in web development. Interested in Clean Architecture, scalable system design, and problem solving.
