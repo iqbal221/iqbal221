@@ -6,7 +6,7 @@
 </p>
 
 ## 💫 About Me:
-I am professional full stack & mobile apps developer. I build scalable web applications and high-performance mobile apps. I am increasing my skills every day in web & mobile apps development. I am nterested in Clean Architecture, scalable system design, and problem solving.
+I am professional full stack & mobile apps developer. I build scalable web applications and high-performance mobile apps. I am increasing my skills every day in web & mobile apps development. I am interested in Clean Architecture, scalable system design, and problem solving.
 <br>
 
 
