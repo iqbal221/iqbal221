@@ -7,7 +7,8 @@
 
 ## 💫 About Me:
 I am professional full stack & mobile apps developer. I build scalable web applications and high-performance mobile apps. I am increasing my skills every day in web & mobile apps development. I am nterested in Clean Architecture, scalable system design, and problem solving.
-
+<br>
+<br>
 
 ### 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/groups/3018000741785473/user/100078921792721) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-zahed-iqbal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zahediiuc221@gmail.com) 
