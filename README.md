@@ -6,9 +6,8 @@
 </p>
 
 ## 💫 About Me:
-<svg width="100" height="100">
-  <circle cx="50" cy="50" r="10" fill="royalblue" />
-</svg>
+<img width="1542" height="1777" alt="2" src="https://github.com/user-attachments/assets/68f7535f-3887-4a5a-a7b7-0992fe470f09" />
+
 I am professional full stack & mobile apps developer. I build scalable web applications and high-performance mobile apps. I am increasing my skills every day in web & mobile apps development. I am interested in Clean Architecture, scalable system design, and problem solving.
 <br>
 
