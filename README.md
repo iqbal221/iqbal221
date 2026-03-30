@@ -6,17 +6,16 @@
 </p>
 
 ## 💫 About Me:
-<img width="15" height="15" alt="2" src="https://github.com/user-attachments/assets/68f7535f-3887-4a5a-a7b7-0992fe470f09" />  I am professional full stack & Flutter developer.
 
-<img width="15" height="15" alt="Right Rounded Arrows Gradient Set" src="https://github.com/user-attachments/assets/00479ef9-2a84-4f82-b25d-283d98d9c6cc" /> I can build scalable web applications and high-performance mobile apps (Flutter).
+<img width="20" height="20" alt="2" src="https://github.com/user-attachments/assets/68f7535f-3887-4a5a-a7b7-0992fe470f09" />  I am professional full stack & Flutter developer.
 
-<img width="15" height="15" alt="2" src="https://github.com/user-attachments/assets/68f7535f-3887-4a5a-a7b7-0992fe470f09" /> I am interested in Clean Architecture, scalable system design, and problem solving.
+<img width="20" height="20" alt="Right Rounded Arrows Gradient Set" src="https://github.com/user-attachments/assets/00479ef9-2a84-4f82-b25d-283d98d9c6cc" /> I can build scalable web applications and high-performance mobile apps (Flutter).
 
-<img width="15" height="15" alt="Right Rounded Arrows Gradient Set" src="https://github.com/user-attachments/assets/00479ef9-2a84-4f82-b25d-283d98d9c6cc" /> I am increasing my skills every day in web & mobile apps development. 
+<img width="20" height="20" alt="2" src="https://github.com/user-attachments/assets/68f7535f-3887-4a5a-a7b7-0992fe470f09" /> I am interested in Clean Architecture, scalable system design, and problem solving.
+
+<img width="20" height="20" alt="Right Rounded Arrows Gradient Set" src="https://github.com/user-attachments/assets/00479ef9-2a84-4f82-b25d-283d98d9c6cc" /> I am increasing my skills every day in web & mobile apps development. 
   
 <br>
-
-
 ### 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/groups/3018000741785473/user/100078921792721) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-zahed-iqbal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zahediiuc221@gmail.com) 
 <br>
