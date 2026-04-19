@@ -7,13 +7,13 @@
 
 ## 💫 About Me:
 
-<img width="15" height="15" alt="2" src="https://github.com/user-attachments/assets/68f7535f-3887-4a5a-a7b7-0992fe470f09" />   I am professional full stack & Flutter developer.
+<img width="15" height="15" alt="2" src="https://github.com/user-attachments/assets/68f7535f-3887-4a5a-a7b7-0992fe470f09" /> I am professional full stack & Flutter developer.
 
 <img width="15" height="15" alt="Right Rounded Arrows Gradient Set" src="https://github.com/user-attachments/assets/00479ef9-2a84-4f82-b25d-283d98d9c6cc" />  I can build scalable web applications and high-performance mobile apps (Flutter).
 
-<img width="15" height="15" alt="2" src="https://github.com/user-attachments/assets/68f7535f-3887-4a5a-a7b7-0992fe470f09" />  I am interested in Clean Architecture, scalable system design, and problem solving.
+<img width="15" height="15" alt="2" src="https://github.com/user-attachments/assets/68f7535f-3887-4a5a-a7b7-0992fe470f09" /> I am interested in Clean Architecture, scalable system design, and problem solving.
 
-<img width="15" height="15" alt="Right Rounded Arrows Gradient Set" src="https://github.com/user-attachments/assets/00479ef9-2a84-4f82-b25d-283d98d9c6cc" />  I am increasing my skills every day in web & mobile apps development. 
+<img width="15" height="15" alt="Right Rounded Arrows Gradient Set" src="https://github.com/user-attachments/assets/00479ef9-2a84-4f82-b25d-283d98d9c6cc" /> I am increasing my skills every day in web & mobile apps development. 
   
 
 
