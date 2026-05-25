@@ -2,7 +2,7 @@
 ### 👋 Hi, I'm Md Zahed Iqbal
 
  <p align="center">
-  <img src="https://github.com/iqbal221/iqbal221/blob/main/banner.jpg" width="100%" />
+  <img src="https://github.com/iqbal221/iqbal221/blob/main/github.png" width="100%" />
 </p>
 
 ## 💫 About Me:
